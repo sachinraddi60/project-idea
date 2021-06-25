@@ -1,1 +1,1 @@
-# project-idea
+One of the biggest Artificial Intelligence problems is data acquisition and storage. Business AI systems depend on sensor data as its input. For validation of AI, a mountain of sensor data is collected. Irrelevant and noisy datasets may cause obstruction as they are hard to store and analyze.
